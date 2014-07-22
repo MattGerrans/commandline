@@ -8,6 +8,8 @@ using CommandLine.Core;
 using CommandLine.Infrastructure;
 using CommandLine.Text;
 
+// todo: fix this parser for plugin support
+
 namespace CommandLine
 {
     /// <summary>
